@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="84757" started-at="2018-09-06T05:21:13Z" finished-at="2018-09-06T05:22:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="84757" started-at="2018-09-06T05:21:13Z" finished-at="2018-09-06T05:22:38Z">
+      <class name="com.test.MyBrowserClass">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.test.MyBrowserClass@33f88ab]" name="setup" is-config="true" duration-ms="50296" started-at="2018-09-06T05:21:13Z" finished-at="2018-09-06T05:22:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="signUpFunction()[pri:0, instance:com.test.MyBrowserClass@33f88ab]" name="signUpFunction" duration-ms="31469" started-at="2018-09-06T05:22:03Z" finished-at="2018-09-06T05:22:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpFunction -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.MyBrowserClass@33f88ab]" name="tearDown" is-config="true" duration-ms="2948" started-at="2018-09-06T05:22:35Z" finished-at="2018-09-06T05:22:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.MyBrowserClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
